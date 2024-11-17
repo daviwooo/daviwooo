@@ -1,5 +1,5 @@
-- 👋 Hi! I'll keep it brief since I know you're not interested in spending a lot of time here.
+- 👋 Hi! I'll keep it brief since I know you're not interested in spending a lot of time here, 'kay?
 - 👀 I’m Daviwoo, a python developer who really loves all kinds of Novels, Webtoon and Manga!
 - 🌱 I’m kinda beginner in many things, currently learning SQL for what will become my biggest project, NovelDex.
-- 📫 How to reach me? daviwoo on Discord, 'kay?
+- 📫 daviwoo on Discord, reach out if u want.
 - 😄 Pronouns: Anything you want (he or him 😅)
